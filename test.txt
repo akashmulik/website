@@ -1,2 +1,3 @@
 some text here
+change from branch
 new line from master
